@@ -4,7 +4,7 @@
   
 - ☕ If you appreciate my work on these projects, feel free to buy me a coffee <a href='https://ko-fi.com/T6T115HEB9' target='_blank'><img alt='Buy Me a Coffee at ko-fi.com' height='24' style='border:0px;height:24px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' /></a>
 
-- 🌱 I’m currently learning SQLite
+- 🌱 I’m currently learning DuckDB
 
 - 📫 How to reach me:
   - flavio.f.martins@tecnico.ulisboa.pt
