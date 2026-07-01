@@ -13,9 +13,9 @@
   
 - ⚡ Fun fact: I was born in Madeira Island!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Flavio Martins' GitHub Stats" height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=flaviomartins&show_icons=true&theme=transparent&include_all_commits=true" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img alt="Flavio Martins' GitHub Stats" height=195 align="center" src="https://github-stats-extended.vercel.app/api?username=flaviomartins&show_icons=true&theme=transparent&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Flavio Martins' Top Langs" height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviomartins&show_icons=true&theme=transparent&layout=compact&langs_count=8" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img alt="Flavio Martins' Top Langs" height=195 align="center" src="https://github-stats-extended.vercel.app/api/api/top-langs?username=flaviomartins&show_icons=true&theme=transparent&layout=compact&langs_count=8" />
 </a>
