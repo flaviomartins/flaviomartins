@@ -14,8 +14,8 @@
 - ⚡ Fun fact: I was born in Madeira Island!
 
 <a href="https://github.com/stats-organization/github-stats-extended">
-  <img alt="Flavio Martins' GitHub Stats" height=195 align="center" src="https://github-stats-extended.vercel.app/api?username=flaviomartins&show_icons=true&theme=transparent&include_all_commits=true" />
+  <img alt="Flavio Martins' GitHub Stats" height=195 align="center" src="https://github-stats-extended.vercel.app/api?username=flaviomartins&show_icons=true&theme=transparent&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
 <a href="https://github.com/stats-organization/github-stats-extended">
-  <img alt="Flavio Martins' Top Langs" height=195 align="center" src="https://github-stats-extended.vercel.app/api/api/top-langs?username=flaviomartins&show_icons=true&theme=transparent&layout=compact&langs_count=8" />
+  <img alt="Flavio Martins' Top Langs" height=195 align="center" src="https://github-stats-extended.vercel.app/api/api/top-langs?username=flaviomartins&show_icons=true&theme=transparent&layout=compact&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
