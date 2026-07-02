@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [bdist-workspace](https://github.com/bdist/bdist-workspace), [sipist-workspace](https://github.com/sipist/sipist-workspace), and a couple of related projects
+- 🔭 I’m currently working on [bdist-workspace](https://github.com/bdist/bdist-workspace), and a couple of related projects
 
 - 🌱 I’m currently learning DuckDB
 
